@@ -1055,3 +1055,18 @@ section {
 .formacao-card h3 {
     line-height: 1.4;
 }
+
+.projeto-conteudo .link-projeto {
+    margin-right: 14px;
+    margin-top: 8px;
+}
+.projeto-link,
+.projeto-link:visited {
+    color: #008fd5;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.projeto-link:hover {
+    text-decoration: underline;
+}
